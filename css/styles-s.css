@@ -55,6 +55,11 @@ pre, code {
 }
 
 
+.hidden {
+    visibility: hidden;
+    height: 0;
+  }
+
 /* NAVBAR */
 .navbar {
      background-color: var(--primary-color);
